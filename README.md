@@ -8,12 +8,12 @@ This project is a starting point for a Flutter application.
 
 ##Feature
 
- # Mock User Login
-# Multiple Choice Questions (MCQ)
-# 10-Second Countdown Timer
-# Quiz Cancel & Exit Confirmation
-# Score Calculation
-# Result Screen
+ 1. Mock User Login
+2. Multiple Choice Questions (MCQ)
+3. 10-Second Countdown Timer
+4. Quiz Cancel & Exit Confirmation
+5.Score Calculation
+6.Result Screen
 ## Technologies Used
 
  Flutter and Dart
